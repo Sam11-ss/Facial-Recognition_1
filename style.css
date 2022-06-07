@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(255, 255, 214);
+
+}
+#header{
+    font-size:45px;
+    width: 80%;
+    font-family: 'Sofia', cursive;
+    
+}
+.name_of_objects{
+    color:#402423;
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+}
+#camera{
+    border:2px solid black;
+    width:350px;
+    height:300px;
+}
+#p1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
+
+}
